@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Post Policy</string>
+
+    <string name="policy_details">Policy Details</string>
+    <string name="policy_no">Policy no</string>
+    <string name="proposal_no">Proposal no</string>
+    <string name="no_claim_bonus">No Claim Bonus</string>
+    <string name="receipt_no">Receipt no</string>
+    <string name="receipt_date">Receipt Date</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="amount">Amount</string>
+    <string-array name="payment_mode">
+        <item>C</item>
+        <item>Q</item>
+        <item>U</item>
+        <item>D</item>
+    </string-array>
+    <string name="get">GET</string>
+    <string name="put">PUT</string>
+    <string name="post">POST</string>
+    <string name="delete">Delete</string>
+
+</resources>

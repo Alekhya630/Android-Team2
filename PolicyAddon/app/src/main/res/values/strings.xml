@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Policy Addon</string>
+    <string name="policyno">PolicyNo</string>
+    <string name="addonid">ADDonID</string>
+    <string name="amount">Amount</string>
+    <string name="get">Get</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="post">Post</string>
+</resources>

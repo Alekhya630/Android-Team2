@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:background="#872020"
+    android:visibility="visible"
+    app:cardCornerRadius="25dp"
+    app:cardElevation="4dp"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#DFC5E9"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Policy Number -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:boxBackgroundMode="outline"
+                android:hint="@string/policyno">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/policyNo_et"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Addon ID -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:boxBackgroundMode="outline"
+                android:hint="@string/addonid">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/addonId_et"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Amount -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:boxBackgroundMode="outline"
+                android:hint="@string/amount">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/amount_et"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Buttons -->
+            <Button
+                android:id="@+id/btnGet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/get" />
+
+            <Button
+                android:id="@+id/btnUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/update" />
+
+            <Button
+                android:id="@+id/btnDelete"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/delete" />
+
+            <Button
+                android:id="@+id/btnAdd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/post" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.cardview.widget.CardView>

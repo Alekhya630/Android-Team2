@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="regno">RegNo</string>
+    <string name="regauthority">REGAuthority</string>
+    <string name="ownerid">OwnerID</string>
+    <string name="make">Make</string>
+    <string name="model">Model</string>
+    <string name="fueltype">FuelType</string>
+    <string name="variant">Variant</string>
+    <string name="engineno">EngineNo</string>
+    <string name="chassisno">ChassisNo</string>
+    <string name="enginecapacity">EngineCapacity</string>
+    <string name="seatingcapacity">SeatingCapacity</string>
+    <string name="mfgyear">MfgYear</string>
+    <string name="regdate">RegDate</string>
+    <string name="bodytype">BodyType</string>
+    <string name="leasedby">LeasedBy</string>
+    <string name="get">Get</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="customer_id">Customer ID</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="customer_phone">Customer Phone</string>
+    <string name="customer_email">Customer Email</string>
+    <string name="customer_address">Customer Address</string>
+    <string name="gets">Get</string>
+    <string name="updates">Update</string>
+    <string name="deletes">Delete</string>
+    <string name="adds">Add</string>
+</resources>

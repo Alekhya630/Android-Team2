@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VehicleApi</string>
+    <string name="regno">RegNo</string>
+    <string name="regauthority">RegAuthority</string>
+    <string name="make">Make</string>
+    <string name="model">Model</string>
+    <string name="fueltype">Fueltype</string>
+    <string name="variant">Variant</string>
+    <string name="engineno">Engineno</string>
+    <string name="chassisno">Chassisno</string>
+    <string name="enginecapacity">Enginecapacity</string>
+    <string name="seatingcapacity">Seatingcapacity</string>
+    <string name="mfgyear">Mfgyear</string>
+    <string name="regdate">Regdate</string>
+    <string name="bodytype">Bodytype</string>
+    <string name="leasedby">Leasedby</string>
+    <string name="ownerid">Ownerid</string>
+    <string name="get">Get</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="post">Post</string>
+</resources>

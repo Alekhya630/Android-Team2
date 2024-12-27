@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProposalApi</string>
+    <string name="post">Post</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="get">Get</string>
+    <string name="totalamount">TotalAmount</string>
+    <string name="basicamount">BasicAmount</string>
+    <string name="agentid">AgentID</string>
+    <string name="idv">IDV</string>
+    <string name="todate">ToDate</string>
+    <string name="fromdate">FromDate</string>
+    <string name="customerid">CustomerID</string>
+    <string name="productid">ProductID</string>
+    <string name="regno">RegNo</string>
+    <string name="proposalid">ProposalID</string>
+    <string name="proposalno">proposalNo</string>
+</resources>

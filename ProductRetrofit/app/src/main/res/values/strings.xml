@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Product Retrofit</string>
+    <string name="ProductID">ProductID</string>
+    <string name="Product_name">Product Name</string>
+    <string name="Product_Description">Product Description</string>
+    <string name="Product_UIN">Product UIN</string>
+    <string name="Insured_Interests">Insured Interests</string>
+    <string name="Policy_Coverage">Policy Coverage</string>
+    <string name="put">PUT</string>
+
+
+</resources>
